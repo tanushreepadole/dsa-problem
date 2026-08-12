@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/tanushreepadole/dsa-problem/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/tanushreepadole/dsa-problem/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushreepadole/dsa-problem/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0053-maximum-subarray](https://github.com/tanushreepadole/dsa-problem/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanushreepadole/dsa-problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanushreepadole/dsa-problem/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/tanushreepadole/dsa-problem/tree/main/0169-majority-element/) | Easy |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/tanushreepadole/dsa-problem/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/tanushreepadole/dsa-problem/tree/main/0169-majority-element/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/tanushreepadole/dsa-problem/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanushreepadole/dsa-problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## String
 | Problem Name | Difficulty |
