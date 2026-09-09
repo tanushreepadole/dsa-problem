@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanushreepadole/dsa-problem/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/tanushreepadole/dsa-problem/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/tanushreepadole/dsa-problem/tree/main/0125-valid-palindrome/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -84,4 +85,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/tanushreepadole/dsa-problem/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/tanushreepadole/dsa-problem/tree/main/0268-missing-number/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/tanushreepadole/dsa-problem/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/tanushreepadole/dsa-problem/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
