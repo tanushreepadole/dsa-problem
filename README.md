@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/tanushreepadole/dsa-problem/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushreepadole/dsa-problem/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/tanushreepadole/dsa-problem/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/tanushreepadole/dsa-problem/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanushreepadole/dsa-problem/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/tanushreepadole/dsa-problem/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/tanushreepadole/dsa-problem/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanushreepadole/dsa-problem/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0141-linked-list-cycle](https://github.com/tanushreepadole/dsa-problem/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/tanushreepadole/dsa-problem/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/tanushreepadole/dsa-problem/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
@@ -98,4 +100,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/tanushreepadole/dsa-problem/tree/main/0155-min-stack/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/tanushreepadole/dsa-problem/tree/main/0141-linked-list-cycle/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/tanushreepadole/dsa-problem/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
