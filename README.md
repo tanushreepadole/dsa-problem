@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/tanushreepadole/dsa-problem/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/tanushreepadole/dsa-problem/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanushreepadole/dsa-problem/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/tanushreepadole/dsa-problem/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/tanushreepadole/dsa-problem/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/tanushreepadole/dsa-problem/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Hash Table
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/tanushreepadole/dsa-problem/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/tanushreepadole/dsa-problem/tree/main/0155-min-stack/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/tanushreepadole/dsa-problem/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/tanushreepadole/dsa-problem/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/tanushreepadole/dsa-problem/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/tanushreepadole/dsa-problem/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/tanushreepadole/dsa-problem/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/tanushreepadole/dsa-problem/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -119,4 +122,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tanushreepadole/dsa-problem/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/tanushreepadole/dsa-problem/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/tanushreepadole/dsa-problem/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
