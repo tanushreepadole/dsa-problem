@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/tanushreepadole/dsa-problem/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanushreepadole/dsa-problem/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/tanushreepadole/dsa-problem/tree/main/0169-majority-element/) | Easy |
+| [0200-number-of-islands](https://github.com/tanushreepadole/dsa-problem/tree/main/0200-number-of-islands/) | Medium |
 | [0268-missing-number](https://github.com/tanushreepadole/dsa-problem/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/tanushreepadole/dsa-problem/tree/main/0283-move-zeroes/) | Easy |
 | [0733-flood-fill](https://github.com/tanushreepadole/dsa-problem/tree/main/0733-flood-fill/) | Easy |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/tanushreepadole/dsa-problem/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/tanushreepadole/dsa-problem/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/tanushreepadole/dsa-problem/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/tanushreepadole/dsa-problem/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/tanushreepadole/dsa-problem/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/tanushreepadole/dsa-problem/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/tanushreepadole/dsa-problem/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/tanushreepadole/dsa-problem/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/tanushreepadole/dsa-problem/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/tanushreepadole/dsa-problem/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/tanushreepadole/dsa-problem/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/tanushreepadole/dsa-problem/tree/main/0226-invert-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/tanushreepadole/dsa-problem/tree/main/0733-flood-fill/) | Easy |
 ## DP on Trees
@@ -199,5 +202,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/tanushreepadole/dsa-problem/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/tanushreepadole/dsa-problem/tree/main/0733-flood-fill/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/tanushreepadole/dsa-problem/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
