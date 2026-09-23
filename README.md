@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/tanushreepadole/dsa-problem/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/tanushreepadole/dsa-problem/tree/main/0283-move-zeroes/) | Easy |
 | [0733-flood-fill](https://github.com/tanushreepadole/dsa-problem/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/tanushreepadole/dsa-problem/tree/main/0994-rotting-oranges/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/tanushreepadole/dsa-problem/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/tanushreepadole/dsa-problem/tree/main/0226-invert-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/tanushreepadole/dsa-problem/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/tanushreepadole/dsa-problem/tree/main/0994-rotting-oranges/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/tanushreepadole/dsa-problem/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/tanushreepadole/dsa-problem/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/tanushreepadole/dsa-problem/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
