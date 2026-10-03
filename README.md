@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/tanushreepadole/dsa-problem/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/tanushreepadole/dsa-problem/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/tanushreepadole/dsa-problem/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/tanushreepadole/dsa-problem/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/tanushreepadole/dsa-problem/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0733-flood-fill](https://github.com/tanushreepadole/dsa-problem/tree/main/0733-flood-fill/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/tanushreepadole/dsa-problem/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/tanushreepadole/dsa-problem/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/tanushreepadole/dsa-problem/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/tanushreepadole/dsa-problem/tree/main/0226-invert-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/tanushreepadole/dsa-problem/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/tanushreepadole/dsa-problem/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/tanushreepadole/dsa-problem/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/tanushreepadole/dsa-problem/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -213,9 +215,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/tanushreepadole/dsa-problem/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/tanushreepadole/dsa-problem/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/tanushreepadole/dsa-problem/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/tanushreepadole/dsa-problem/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/tanushreepadole/dsa-problem/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
