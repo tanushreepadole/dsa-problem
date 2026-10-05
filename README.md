@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/tanushreepadole/dsa-problem/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/tanushreepadole/dsa-problem/tree/main/0283-move-zeroes/) | Easy |
 | [0695-max-area-of-island](https://github.com/tanushreepadole/dsa-problem/tree/main/0695-max-area-of-island/) | Medium |
+| [0704-binary-search](https://github.com/tanushreepadole/dsa-problem/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/tanushreepadole/dsa-problem/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/tanushreepadole/dsa-problem/tree/main/0994-rotting-oranges/) | Medium |
 ## Two Pointers
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanushreepadole/dsa-problem/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/tanushreepadole/dsa-problem/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/tanushreepadole/dsa-problem/tree/main/0704-binary-search/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
