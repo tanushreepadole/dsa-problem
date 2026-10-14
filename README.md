@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanushreepadole/dsa-problem/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/tanushreepadole/dsa-problem/tree/main/0169-majority-element/) | Easy |
 | [0200-number-of-islands](https://github.com/tanushreepadole/dsa-problem/tree/main/0200-number-of-islands/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/tanushreepadole/dsa-problem/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/tanushreepadole/dsa-problem/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/tanushreepadole/dsa-problem/tree/main/0283-move-zeroes/) | Easy |
 | [0695-max-area-of-island](https://github.com/tanushreepadole/dsa-problem/tree/main/0695-max-area-of-island/) | Medium |
@@ -231,4 +232,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/tanushreepadole/dsa-problem/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/tanushreepadole/dsa-problem/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/tanushreepadole/dsa-problem/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
